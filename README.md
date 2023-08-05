@@ -1,7 +1,7 @@
 # Docker Roadmap
 
 Thank you for the interest in Docker and our products!
-This is the public roadmap for Docker Products and Services (Hub, Desktop, Engine, docker-compose, Docker App).
+This is the public roadmap for Docker Products and Services (Hub, Desktop, Engine, docker-compose).
 
 # Introduction
 We want to share with our customers what we plan to do early and often so we can get your feedback on if these are the right things for us to be focusing on. This also allows our customers to make early decisions based on what we are/are not building. 
@@ -15,7 +15,11 @@ We want to share with our customers what we plan to do early and often so we can
 For users of Docker Desktop interested in early access to new features please join our [Developer Preview Program](https://www.docker.com/community/get-involved/developer-preview). 
 
 ## Participate in User Research
+<<<<<<< HEAD
 During these live feedback sessions we will often show work in progress features or ideas to get your input on, or ask you more about how you use Docker to discover any pain points when working with the product. We use these insights to help prioritize our roadmap and improve the user experience. Each session is typically 30 minutes to an hour. If you would like to take part in one of our user research studies please [sign up](https://docs.google.com/forms/d/e/1FAIpQLSdBGmsWwde67BNFmJ66bhYfb-WOsBmlKn7MoRqSKPwj1NAk_A/viewform?usp=sf_link) and we will reach out to you when we have something to research or test.
+=======
+During these live feedback sessions we will often show work in progress features or ideas to get your input on, or ask you more about how you use Docker to discover any pain points when working with the product. We use these insights to help prioritize our roadmap and improve the user experience. Each session is typically 30 minutes to an hour. If you would like to take part in one of our user research studies please [sign up](https://survey.alchemer.com/s3/6810323/Docker-Research-Participant-Survey) and we will reach out to you when we have something to research or test.
+>>>>>>> master
 
 
 ## Security
@@ -30,6 +34,7 @@ Please do not create a public github issue. If you discover a potential security
 
 * [Docker Hub](https://github.com/docker/hub-feedback)
 * [Docker Engine](https://github.com/docker/for-linux)
+* [Docker Desktop Linux](https://github.com/docker/desktop-linux/issues)
 * [Docker Desktop Windows](https://github.com/docker/for-win/issues)
 * [Docker Desktop Mac](https://github.com/docker/for-mac/issues) 
 
@@ -51,7 +56,7 @@ Please do not create a public github issue. If you discover a potential security
 
 **A:** Please open an issue! You can read about how to contribute [here](https://github.com/docker/roadmap/blob/master/CONTRIBUTING.MD). Community submitted issues will be tagged "Proposed" and will be reviewed by the team.
 
-**Q:** Will you accept a pull request?
+**Q:** Will you accept a pull request?yes
 
 **A:** We haven't worked out how pull requests should work for a public roadmap page, but we will take all PRs very seriously and review for inclusion. Read about contributing. We review these each week. 
 
